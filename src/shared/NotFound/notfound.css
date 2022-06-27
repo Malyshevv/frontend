@@ -1,0 +1,26 @@
+.btn {
+    background: #28c27d;
+    font-weight: bolder;
+    color: white;
+    padding: 10px 25px 10px 25px;
+    border-radius: 5px;
+    margin: 10px;
+    display: inline-flex;
+}
+
+.error {
+    text-align: center;
+    padding: 10px;
+}
+
+.error h1 {
+    display: inline-flex;
+    margin: 5px;
+    font-size: 27pt;
+    font-weight: bolder;
+}
+
+.error p {
+    font-size: 15pt;
+    font-weight: bolder;
+}

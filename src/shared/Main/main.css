@@ -1,0 +1,13 @@
+.main {
+    width: 80%;
+    display: flex;
+    flex-flow: column;
+    margin: 20px auto;
+}
+
+@media all and (max-width: 1200px) {
+    .main {
+        width: 90%;
+        flex-flow: column;
+    }
+}
